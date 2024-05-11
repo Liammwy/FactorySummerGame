@@ -11924,3 +11924,277 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.11-18.37.11:393][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.11-18.37.11:396][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
 [2024.05.11-18.37.11:449][899]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.05.11-18.41.11:248][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.11-18.41.11:252][310]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2024.05.11-18.41.11:252][310]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.11-18.41.11:340][310]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.05.11-18.41.11:340][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.11-18.41.11:397][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2024.05.11-18.41.11:397][310]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter_Auto45DFBFAF146F8C72565E08980E09D9EB1.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2024.05.11-18.41.11:397][310]LogFileHelpers: Auto-saving content packages took 0.146
+[2024.05.11-18.43.30:526][ 77]LogEditorTransaction: Undo Delete current selection
+[2024.05.11-18.44.12:475][371]LogDerivedDataCache: C:/Users/liam1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.237 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6065 files in 8191 folders with total size 664 MiB.
+[2024.05.11-18.44.39:777][568]LogEditorTransaction: Undo Rename Node
+[2024.05.11-18.44.40:421][592]LogEditorTransaction: Undo Add Node
+[2024.05.11-18.45.25:599][974]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.05.11-18.46.14:282][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.46.14:426][894]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.46.14:427][894]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter2CA0936E4230DFB10DED66950122DA5D.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.46.14:439][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 27.1 sec)
+[2024.05.11-18.46.14:442][894]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.46.14:443][894]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.46.14:895][931]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.46.15:011][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.11-18.46.15:841][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.46.15:977][970]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.46.15:977][970]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter855F14024C78DB3C39861DB298576D25.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.46.15:986][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 27.2 sec)
+[2024.05.11-18.46.15:988][970]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.46.15:988][970]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.46.19:119][205]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.46.19:138][205]LogBlueprint: Error: [AssetLog] C:\Users\liam1\OneDrive\Computer Shit\Documents\Desktop\FactorySummerGame\FactoryGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  Actor Placement  no longer exists on node  Valid for Placement . Please refresh node or break links to remove pin.
+[2024.05.11-18.46.19:215][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.11-18.46.19:840][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.46.19:965][236]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.46.19:966][236]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter82019FEB4E3CA24D901F888711B27D48.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.46.19:974][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 27.4 sec)
+[2024.05.11-18.46.19:976][236]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.46.19:976][236]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.46.22:962][480]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.46.23:066][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.11-18.46.23:172][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.46.23:306][480]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.46.23:307][480]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter56C29F8D4DA615A88C36A89A304E43E1.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.46.23:316][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 27.5 sec)
+[2024.05.11-18.46.23:318][480]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.46.23:318][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.46.23:817][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.46.23:915][508]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.46.23:916][508]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacterDBC0753F4C7C2C12E016B3BDD728769F.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.46.23:925][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 27.6 sec)
+[2024.05.11-18.46.23:927][508]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.46.23:927][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.46.51:437][782]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.46.51:541][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.11-18.46.51:654][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.46.51:792][782]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.46.51:792][782]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter00889DD44798280D1AEDA794A605880C.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.46.51:801][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 27.8 sec)
+[2024.05.11-18.46.51:804][782]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.46.51:804][782]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.46.52:943][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.46.53:032][866]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.46.53:033][866]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacterBCB2ACB24C0C675FC8D4C5B841997EC2.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.46.53:041][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 27.9 sec)
+[2024.05.11-18.46.53:043][866]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.46.53:043][866]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.47.13:322][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.47.13:465][518]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.47.13:466][518]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter2377533C49570E7085B643B509EA63B7.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.47.13:477][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 28.0 sec)
+[2024.05.11-18.47.13:479][518]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.47.13:479][518]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.47.14:268][578]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.47.14:366][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.11-18.47.15:514][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.47.15:650][649]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.47.15:651][649]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacterB45E6E1148E2061A1276B588D595DD57.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.47.15:659][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 28.2 sec)
+[2024.05.11-18.47.15:661][649]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.47.15:661][649]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.48.31:340][738]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.48.31:433][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.05.11-18.48.31:502][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.48.31:638][738]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.48.31:639][738]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter759771DB4D985E26303233A2AEBBA6A5.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.48.31:648][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 28.3 sec)
+[2024.05.11-18.48.31:651][738]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.48.31:651][738]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.48.32:562][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.48.32:652][804]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.48.32:652][804]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter95E02B32446C46C6809601B8439AF2CC.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.48.32:660][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 28.4 sec)
+[2024.05.11-18.48.32:661][804]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.48.32:662][804]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.48.34:556][968]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.11-18.48.34:566][968]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.11-18.48.34:566][968]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.11-18.48.34:567][968]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 57 ms)
+[2024.05.11-18.48.34:567][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.11-18.48.34:567][968]PIE: New page: PIE session: ThirdPersonMap (11 May 2024, 20:48:34)
+[2024.05.11-18.48.34:567][968]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.11-18.48.34:569][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002207s)
+[2024.05.11-18.48.34:569][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002236s)
+[2024.05.11-18.48.34:586][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.11-18.48.34:590][968]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.11-18.48.34:590][968]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.11-18.48.34:590][968]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.11-18.48.34:591][968]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.11-18.48.34:591][968]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.11-18.48.34:591][968]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.11-18.48.34:591][968]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.11-18.48.34:592][968]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.11-18.48.34:592][968]LogWorldPartition: Display: WorldPartition initialize took 644 us (total: 157 ms)
+[2024.05.11-18.48.34:592][968]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2024.05.11-18.48.34:592][968]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.05.11-18.48.34:592][968]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.11-18.48.34:592][968]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.11-18.48.34:592][968]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.11-18.48.34:592][968]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.11-18.48.34:592][968]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.11-18.48.34:592][968]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.11-18.48.34:592][968]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.11-18.48.34:592][968]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.11-18.48.34:592][968]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.11-18.48.34:592][968]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.11-18.48.34:592][968]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.11-18.48.34:594][968]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.11-18.48.34:622][968]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.05.11-18.48.34:622][968]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.11-18.48.34:622][968]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.11-18.48.34:622][968]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.11-18.48.34:623][968]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.05.11-18.48.34:623][968]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.05.11-18.48.34:625][968]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.05.11-18.48.34:625][968]LogInit: FAudioDevice initialized with ID 52.
+[2024.05.11-18.48.34:625][968]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.05.11-18.48.34:625][968]LogAudio: Display: Audio Device (ID: 52) registered with world 'ThirdPersonMap'.
+[2024.05.11-18.48.34:625][968]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.05.11-18.48.34:627][968]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.11-18.48.34:628][968]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.11-19.48.34
+[2024.05.11-18.48.34:628][968]LogWorld: Bringing up level for play took: 0.000662
+[2024.05.11-18.48.34:630][968]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.05.11-18.48.34:646][968]PIE: Server logged in
+[2024.05.11-18.48.34:647][968]PIE: Play in editor total start time 0.082 seconds.
+[2024.05.11-18.48.37:505][248]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Placement Invalid - Has none of these items in inventory
+[2024.05.11-18.48.37:957][298]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Placement Invalid - Has none of these items in inventory
+[2024.05.11-18.48.38:290][333]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Placement Invalid - Has none of these items in inventory
+[2024.05.11-18.48.38:850][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.11-18.48.38:850][390]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.11-18.48.38:850][390]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.11-18.48.38:850][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.11-18.48.38:851][390]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.11-18.48.38:853][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.11-18.48.38:859][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.11-18.48.38:878][390]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.11-18.48.38:879][390]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.05.11-18.48.38:879][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.05.11-18.48.38:881][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.05.11-18.48.38:883][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.11-18.48.38:887][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.11-18.48.38:938][391]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.05.11-18.48.48:156][ 66]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.48.48:245][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.11-18.48.48:314][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.48.48:441][ 66]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.48.48:442][ 66]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter5A71D5DC4F82CB5505162FBB3FAAA5A0.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.48.48:451][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 28.5 sec)
+[2024.05.11-18.48.48:454][ 66]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.48.48:454][ 66]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.48.49:392][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.48.49:476][123]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.48.49:477][123]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacterEC05360F44F9908DFF626CAF7E46D545.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.48.49:485][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 28.6 sec)
+[2024.05.11-18.48.49:487][123]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.48.49:487][123]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.49.10:206][917]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.49.10:314][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.11-18.49.10:420][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.49.10:549][917]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.49.10:550][917]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter2E7CAAF549A2F113A0CE10A8E7C4CAF4.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.49.10:559][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 28.8 sec)
+[2024.05.11-18.49.10:562][917]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.49.10:563][917]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.50.12:962][ 67]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.50.13:061][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.11-18.50.13:141][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.50.13:271][ 67]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.50.13:272][ 67]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacterEA4FB3FE45B2FF3210B4B68BBE0B13BC.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.50.13:280][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 28.9 sec)
+[2024.05.11-18.50.13:283][ 67]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.50.13:283][ 67]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.50.13:925][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.50.14:015][108]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.50.14:016][108]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter9B837C6245078ADD8718838FAD2C444D.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.50.14:024][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 29.0 sec)
+[2024.05.11-18.50.14:026][108]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.50.14:026][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.50.30:809][500]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.11-18.50.30:909][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.05.11-18.50.30:975][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.50.31:111][500]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.50.31:112][500]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacterB24EE80540D198147D81588C5F04363B.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.50.31:120][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 29.1 sec)
+[2024.05.11-18.50.31:123][500]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.50.31:123][500]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.50.32:053][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.11-18.50.32:146][569]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.11-18.50.32:147][569]LogSavePackage: Moving '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Saved/BP_ThirdPersonCharacter1430926E41F351BE75416A8C66506061.tmp' to '../../../../../../Users/liam1/OneDrive/Computer Shit/Documents/Desktop/FactorySummerGame/FactoryGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.11-18.50.32:155][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 29.3 sec)
+[2024.05.11-18.50.32:158][569]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.11-18.50.32:158][569]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.11-18.50.52:482][346]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.11-18.50.52:491][346]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.11-18.50.52:491][346]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.11-18.50.52:492][346]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 59 ms)
+[2024.05.11-18.50.52:492][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.11-18.50.52:492][346]PIE: New page: PIE session: ThirdPersonMap (11 May 2024, 20:50:52)
+[2024.05.11-18.50.52:519][346]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.11-18.50.52:521][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002096s)
+[2024.05.11-18.50.52:521][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002131s)
+[2024.05.11-18.50.52:539][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.11-18.50.52:543][346]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.11-18.50.52:543][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.11-18.50.52:543][346]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.11-18.50.52:544][346]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.11-18.50.52:544][346]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.11-18.50.52:544][346]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.11-18.50.52:544][346]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.11-18.50.52:544][346]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.11-18.50.52:545][346]LogWorldPartition: Display: WorldPartition initialize took 653 us (total: 158 ms)
+[2024.05.11-18.50.52:545][346]LogPlayLevel: PIE: World Init took: (0.001783s)
+[2024.05.11-18.50.52:545][346]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.05.11-18.50.52:545][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.11-18.50.52:545][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.11-18.50.52:545][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.11-18.50.52:545][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.11-18.50.52:545][346]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.11-18.50.52:545][346]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.11-18.50.52:545][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.11-18.50.52:545][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.11-18.50.52:545][346]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.11-18.50.52:545][346]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.11-18.50.52:545][346]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.11-18.50.52:547][346]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.11-18.50.52:576][346]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.05.11-18.50.52:576][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.11-18.50.52:576][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.11-18.50.52:576][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.11-18.50.52:577][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.05.11-18.50.52:577][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2024.05.11-18.50.52:578][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.05.11-18.50.52:578][346]LogInit: FAudioDevice initialized with ID 53.
+[2024.05.11-18.50.52:578][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.05.11-18.50.52:578][346]LogAudio: Display: Audio Device (ID: 53) registered with world 'ThirdPersonMap'.
+[2024.05.11-18.50.52:579][346]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.05.11-18.50.52:581][346]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.11-18.50.52:582][346]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.11-19.50.52
+[2024.05.11-18.50.52:582][346]LogWorld: Bringing up level for play took: 0.000552
+[2024.05.11-18.50.52:583][346]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.05.11-18.50.52:600][346]PIE: Server logged in
+[2024.05.11-18.50.52:601][346]PIE: Play in editor total start time 0.11 seconds.
+[2024.05.11-18.51.07:736][584]LogViewport: Scene viewport resized to 650x390, mode Windowed.
+[2024.05.11-18.51.29:691][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.11-18.51.29:691][404]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.11-18.51.29:691][404]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.11-18.51.29:692][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.11-18.51.29:692][404]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.11-18.51.29:696][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.11-18.51.29:703][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.11-18.51.29:723][404]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.11-18.51.29:723][404]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.05.11-18.51.29:723][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.05.11-18.51.29:725][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.05.11-18.51.29:730][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.11-18.51.29:733][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.11-18.51.29:787][405]LogPlayLevel: Display: Destroying online subsystem :Context_72
